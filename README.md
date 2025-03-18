@@ -1,7 +1,7 @@
 Hello, welcome to my GitHub profile! I am a passionate Big Data Engineer with a strong foundation in designing and implementing large-scale data processing systems. With expertise in data warehousing, data integration, and distributed computing, I strive to solve complex data challenges and extract valuable insights from massive datasets.
 
 **About Me:**
-I am driven by a curiosity for exploring new technologies and leveraging them to unlock the potential of data. Armed with a deep understanding of various big data frameworks and technologies, I continuously seek innovative ways to optimize data processing pipelines and improve data quality. I am also proficient in programming languages such as Python, Java, and Scala, which enables me to develop robust, scalable, and efficient data engineering solutions.
+I am driven by a curiosity for exploring new technologies and leveraging them to unlock the potential of data. Armed with a deep understanding of various big data frameworks and technologies, I continuously seek innovative ways to optimize data processing pipelines and improve data quality. I am also proficient in programming languages such as Python, and Scala, which enables me to develop robust, scalable, and efficient data engineering solutions.
 
 **Skills:**
 - Big Data Technologies: Hadoop, Spark, Kafka, Hive, HBase
